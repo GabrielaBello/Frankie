@@ -14,8 +14,8 @@ import mx.itson.frankie.entidades.Paso;
 import mx.itson.frankie.entidades.Receta;
 
 /**
- *
- * @author gabrielaperezbello
+ *Asignacion de valores e impresion de los mismos.
+ * @author Gabriela Pérez Bello
  */
 public class Recetario extends javax.swing.JFrame {
 

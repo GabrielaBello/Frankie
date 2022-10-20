@@ -5,8 +5,8 @@
 package mx.itson.frankie.entidades;
 
 /**
- *
- * @author gabrielaperezbello
+ *Atributos de un paso.
+ * @author Gabriela Pérez Bello
  */
 public class Paso {
      

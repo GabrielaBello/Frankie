@@ -9,8 +9,8 @@ import java.util.List;
 import mx.itson.frankie.enumeradores.Dificultad;
 
 /**
- *
- * @author gabrielaperezbello
+ *Atributos de una receta.
+ * @author Gabriela Pérez Bello
  */
 public class Receta {
     

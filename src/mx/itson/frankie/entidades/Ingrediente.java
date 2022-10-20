@@ -5,8 +5,8 @@
 package mx.itson.frankie.entidades;
 
 /**
- *
- * @author gabrielaperezbello
+ *Atributos de un ingrediente.
+ * @author Gabriela Pérez Bello
  */
 public class Ingrediente {
 

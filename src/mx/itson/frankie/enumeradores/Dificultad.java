@@ -5,8 +5,8 @@
 package mx.itson.frankie.enumeradores;
 
 /**
- *
- * @author gabrielaperezbello
+ *Enumerador sobre la dificultad de una receta.
+ * @author Gabriela Pérez Bello
  */
 public enum Dificultad {
     FACIL, INTERMEDIO, LEGENDARIO

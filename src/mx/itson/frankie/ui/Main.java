@@ -14,7 +14,7 @@ import mx.itson.frankie.enumeradores.Dificultad;
 
 /**
  *
- * @author gabrielaperezbello
+ * @author Gabriela Pérez Bello
  */
 
  
